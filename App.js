@@ -44,7 +44,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.header_title}>BMI Calculator ❤</Text>
+        <Text style={styles.header_title}>BMI Calculator 😎</Text>
       </View>
       <View style={styles.main}>
         <Input
